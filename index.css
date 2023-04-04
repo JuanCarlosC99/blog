@@ -1,0 +1,31 @@
+h1{
+    text-align: center
+}
+.form {
+     
+    font-family: sans-serif; 
+    font-size: 18px; 
+    font-weight: 400; 
+    color: #030303; 
+    background:#cc904c4b; 
+    margin: auto;
+    width: 40%;
+    border: 3px solid rgb(80, 80, 80);
+    padding: 10px;
+    border-radius: 2%;
+}
+.post{
+    background-color: rgb(239, 247, 247);
+    margin: auto;
+    width: 40%;
+    border: 3px solid rgb(255, 255, 255);
+    padding: 10px;
+    border: 3px solid rgb(80, 80, 80);
+    border-radius: 2%;
+}
+section div{
+    color: #030303; 
+    background:#9667324b; 
+    border-radius: 2%;
+    padding: 10px;
+}
